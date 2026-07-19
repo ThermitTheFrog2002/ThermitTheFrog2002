@@ -28,7 +28,7 @@
 - eReader
 - Poker probability tracker
 - QR code scanner
-- Recipie app
+- Recipe app
 - Stack Exchange cliet
 - ToDo List app
 - Weather app
