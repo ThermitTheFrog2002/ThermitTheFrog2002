@@ -29,6 +29,6 @@
 - Poker probability tracker
 - QR code scanner
 - Recipe app
-- Stack Exchange cliet
+- Stack Exchange client
 - ToDo List app
 - Weather app
